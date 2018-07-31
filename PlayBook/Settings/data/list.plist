@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>artistName</key>
+		<string>Марина Кистяева</string>
+		<key>albumName</key>
+		<string>Рожденная для его любви</string>
+		<key>songName</key>
+		<string>1</string>
+		<key>albumArtwork</key>
+		<string>rojdenaya.jpg</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Марина Кистяева</string>
+		<key>albumName</key>
+		<string>Рожденная для его любви</string>
+		<key>songName</key>
+		<string>2</string>
+		<key>albumArtwork</key>
+		<string>rojdenaya.jpg</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Марина Кистяева</string>
+		<key>albumName</key>
+		<string>Рожденная для его любви</string>
+		<key>songName</key>
+		<string>3</string>
+		<key>albumArtwork</key>
+		<string>rojdenaya.jpg</string>
+	</dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>4</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>5</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>6</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>7</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>8</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>9</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>10</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>11</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>12</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>13</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>14</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>15</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>16</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>17</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>18</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>19</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>20</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>21</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+    <dict>
+        <key>artistName</key>
+        <string>Марина Кистяева</string>
+        <key>albumName</key>
+        <string>Рожденная для его любви</string>
+        <key>songName</key>
+        <string>22</string>
+        <key>albumArtwork</key>
+        <string>rojdenaya.jpg</string>
+    </dict>
+</array>
+</plist>
